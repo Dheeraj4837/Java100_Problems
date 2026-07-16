@@ -1,28 +1,25 @@
-# Java100_Problems
+## 📅 Progress
 
-# Java 100 Problems
+### Day 1
+- ✅ Problem 01 - Sum of Two Numbers
+- ✅ Problem 02 - Sum using User Input
+- ✅ Problem 03 - Arithmetic Operations
+- ✅ Problem 04 - Area & Circumference of Circle
+- ✅ Problem 05 - Area & Perimeter of Rectangle
+- ✅ Problem 06 - Swap using Third Variable
 
-This repository contains my solutions to 100 Java programming problems.
+### Day 2
+- ✅ Problem 07 - Swap without Third Variable
+- ✅ Problem 08 - Celsius to Fahrenheit
+- ✅ Problem 09 - Total and Average of 5 Subjects
 
-## Progress
+### Day 3
+- ✅ Problem 10 - Convert Seconds to Hours, Minutes & Seconds
+- ✅ Problem 11 - Even or Odd
+- ✅ Problem 12 - Positive, Negative or Zero
+- ✅ Problem 13 - Largest of Three Numbers
+- ✅ Problem 14 - Smallest of Three Numbers
+- ✅ Problem 15 - Leap Year Check
+- ✅ Problem 16 - Vowel or Consonant
 
-- ✅ Day 1
-  - Problem 1
-  - Problem 2
-  - Problem 3
-  - Problem 4
-  - Problem 5
-  - Problem 6
-
-- ⏳ Day 2 (Coming Soon)
-
-## Topics Covered
-
-- Variables
-- Input/Output
-- Arithmetic Operators
-- Area and Perimeter
-- Swapping Numbers
-
-**Language:** Java
-**IDE:** IntelliJ IDEA
+**Progress:** 16 / 100 Problems Completed 🚀
