@@ -3,6 +3,7 @@ package Day03_Problem;
 import java.util.Scanner;
 
 public class Problem16 {
+    //Write a program to read a character and check whether it is a vowel or a consonant.
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your character Symbol: ");
