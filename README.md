@@ -26,11 +26,11 @@
 ✅ Problem 17 - Alphabet, Digit, or Special Symbol
 
 ## Day 5
-✅ Problem 18 - Student Grade Calculator
-✅ Problem 19 - Divisible by Both 3 and 5
-✅ Problem 20 - Voting Eligibility Checker
-✅ Problem 21 - Display Natural Numbers from 1 to n
-✅ Problem 22 - Display Natural Numbers in Reverse Order
+- ✅ Problem 18 - Student Grade Calculator
+- ✅ Problem 19 - Divisible by Both 3 and 5
+- ✅ Problem 20 - Voting Eligibility Checker
+- ✅ Problem 21 - Display Natural Numbers from 1 to n
+- ✅ Problem 22 - Display Natural Numbers in Reverse Order
 
 ## 📈 Progress
 **22 / 100 Problems Completed** 🚀
