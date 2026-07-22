@@ -32,5 +32,18 @@
 - ✅ Problem 21 - Display Natural Numbers from 1 to n
 - ✅ Problem 22 - Display Natural Numbers in Reverse Order
 
-## 📈 Progress
-**22 / 100 Problems Completed** 🚀
+## Day 6
+- ✅ Problem 23 - Display Even Numbers
+- ✅ Problem 24 - Display Odd Numbers
+- ✅ Problem 25 - Sum of Natural Numbers
+- ✅ Problem 26 - Sum of Even Numbers
+- ✅ Problem 27 - Sum of Odd Numbers
+- ✅ Problem 28 - Factorial of a Number
+
+## Day 7
+- ✅ Problem 29 - Multiplication Table
+- ✅ Problem 30 - Multiples of a Number
+- ✅ Problem 31 - Count Numbers Divisible by 3
+- ✅ Problem 32 - Numbers Divisible by 3 or 5
+
+Progress: 32 / 100 Problems Completed 🚀
