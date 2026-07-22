@@ -46,4 +46,14 @@
 - ✅ Problem 31 - Count Numbers Divisible by 3
 - ✅ Problem 32 - Numbers Divisible by 3 or 5
 
-Progress: 32 / 100 Problems Completed 🚀
+## Day 8
+- ✅ Problem 33 - Count Number of Digits
+- ✅ Problem 34 - Display All Digits of a Number
+
+## Day 9
+- ✅ Problem 35 - Sum of Digits
+- ✅ Problem 36 - Product of Digits
+- ✅ Problem 37 - Reverse a Number
+- ✅ Problem 38 - Largest Digit in a Number
+
+Progress: 38 / 100 Problems Completed 🚀
