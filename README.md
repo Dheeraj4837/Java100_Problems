@@ -56,4 +56,16 @@
 - ✅ Problem 37 - Reverse a Number
 - ✅ Problem 38 - Largest Digit in a Number
 
-Progress: 38 / 100 Problems Completed 🚀
+### Day 10
+- ✅ Problem 39 - Smallest Digit in a Number  
+- ✅ Problem 40 - Count Even and Odd Digits  
+- ✅ Problem 41 - Palindrome Number Check  
+- ✅ Problem 42 - Replace All 0's with 5  
+
+### Day 11
+- ✅ Problem 43 - Sum of First and Last Digit  
+- ✅ Problem 44 - Prime Number Check  
+
+---
+
+## 🚀 Progress: **44 / 100 Problems Completed
