@@ -56,34 +56,34 @@
 - ✅ Problem 37 - Reverse a Number
 - ✅ Problem 38 - Largest Digit in a Number
 
-### Day 10
+## Day 10
 - ✅ Problem 39 - Smallest Digit in a Number  
 - ✅ Problem 40 - Count Even and Odd Digits  
 - ✅ Problem 41 - Palindrome Number Check  
 - ✅ Problem 42 - Replace All 0's with 5  
 
-### Day 11
+## Day 11
 - ✅ Problem 43 - Sum of First and Last Digit  
 - ✅ Problem 44 - Prime Number Check  
 
-### Day 13
+## Day 13
 - 🚧 Practice & Revision Day
 
-### Day 14
+## Day 14
 - ✅ Problem 46 - Display the First n Prime Numbers
 
-### Day 15
+## Day 15
 - ✅ Problem 47 - Armstrong Number Check
 
-### Day 16
+## Day 16
 - ✅ Problem 48 - Display All Armstrong Numbers from 1 to n
 - ✅ Problem 49 - Perfect Number Check
 
-### Day 17
+## Day 17
 - ✅ Problem 50 - Strong Number Check
 - ✅ Problem 51 - Automorphic Number Check
 
-### Day 18
+## Day 18
 - ✅ Problem 52 - Harshad (Niven) Number Check
 - ✅ Problem 53 - Find All Factors of a Number
 - ✅ Problem 54 - Count the Number of Factors
