@@ -66,6 +66,30 @@
 - ✅ Problem 43 - Sum of First and Last Digit  
 - ✅ Problem 44 - Prime Number Check  
 
+### Day 13
+- 🚧 Practice & Revision Day
+
+### Day 14
+- ✅ Problem 46 - Display the First n Prime Numbers
+
+### Day 15
+- ✅ Problem 47 - Armstrong Number Check
+
+### Day 16
+- ✅ Problem 48 - Display All Armstrong Numbers from 1 to n
+- ✅ Problem 49 - Perfect Number Check
+
+### Day 17
+- ✅ Problem 50 - Strong Number Check
+- ✅ Problem 51 - Automorphic Number Check
+
+### Day 18
+- ✅ Problem 52 - Harshad (Niven) Number Check
+- ✅ Problem 53 - Find All Factors of a Number
+- ✅ Problem 54 - Count the Number of Factors
+- ✅ Problem 55 - Find the GCD (HCF) of Two Numbers
+- ✅ Problem 56 - Find the LCM of Two Numbers
+
 ---
 
-## 🚀 Progress: **44 / 100 Problems Completed
+## 🚀 Progress: **56 / 100 Problems Completed**
