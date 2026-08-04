@@ -90,6 +90,26 @@
 - ✅ Problem 55 - Find the GCD (HCF) of Two Numbers
 - ✅ Problem 56 - Find the LCM of Two Numbers
 
+### Day 19
+- 📖 Revision & Practice
+
+### Day 20
+- ✅ Problem 57 - Display the First n Terms of the Fibonacci Series
+- ✅ Problem 58 - Sum of the First n Terms of the Fibonacci Series
+
+### Day 21
+- ✅ Problem 59 - Sum of the Series (1 + 2 + 3 + ... + n)
+- ✅ Problem 60 - Sum of the Series (1² + 2² + 3² + ... + n²)
+- ✅ Problem 61 - Sum of the Harmonic Series (1 + 1/2 + 1/3 + ... + 1/n)
+
+### Day 22
+- ✅ Problem 62 - Find the Value of x Raised to the Power y (Without Using `Math.pow()`)
+- ✅ Problem 63 - Print a Right-Angled Triangle Pattern of Stars
+- ✅ Problem 64 - Print an Inverted Right-Angled Triangle Pattern of Stars
+- ✅ Problem 65 - Print a Pyramid Pattern of Stars
+- ✅ Problem 66 - Print a Number Triangle (Rows Contain Numbers 1 to i)
+- ✅ Problem 67 - Print Pascal's Triangle
+
 ---
 
-## 🚀 Progress: **56 / 100 Problems Completed**
+## 🚀 Progress: **67 / 100 Problems Completed**
